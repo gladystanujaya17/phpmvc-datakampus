@@ -1,0 +1,70 @@
+/* GENERAL */
+* {
+    font-family: 'Poppins';
+}
+
+body {
+    background-image: url("../img/campus-bg.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+/* HOME */
+.index-home {
+    margin-top: 100px;
+    background-color: white;
+    background-position: center;
+    padding: 20px;
+    border-radius: 5px;
+    width: 800px;
+    box-shadow: 0 0 20px rgba(117, 183, 221, 0.2);
+    border: 2px solid rgba(255, 255, 255, .2);
+}
+
+/* ABOUT */
+.index-about {
+    margin-top: 70px;
+    background-color: white;
+    background-position: center;
+    padding: 20px;
+    border-radius: 5px;
+    width: 800px;
+    box-shadow: 0 0 20px rgba(117, 183, 221, 0.2);
+    border: 2px solid rgba(255, 255, 255, .2);
+}
+
+/* MAHASISWA */
+.index-mahasiswa {
+    margin-top: 70px;
+    margin-bottom: 50px;
+    background-color: white;
+    background-position: center;
+    padding: 20px;
+    border-radius: 5px;
+    width: 800px;
+    box-shadow: 0 0 20px rgba(117, 183, 221, 0.2);
+    border: 2px solid rgba(255, 255, 255, .2);
+}
+.keyword-cari, .button-tambah {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+/* DETAIL MAHASISWA */
+.detail-mahasiswa {
+    margin-top: 70px;
+    margin-bottom: 50px;
+    background-color: white;
+    background-position: center;
+    padding: 20px;
+    border-radius: 5px;
+    width: 800px;
+    box-shadow: 0 0 20px rgba(117, 183, 221, 0.2);
+    border: 2px solid rgba(255, 255, 255, .2);
+    text-align: center;
+}
+
+
+
